@@ -4,8 +4,7 @@ Hi! I’m a Web and Mobile App Developer skilled in PHP, Laravel, MySQL, JavaScr
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KjartanBourgeois&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KjartanBourgeois&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KjartanBourgeois&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=KjartanBourgeois&theme=dark&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KjartanBourgeois&icon=2&color=1)](https://visitcount.itsvg.in)
