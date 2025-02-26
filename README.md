@@ -1,10 +1,32 @@
-# 🧑‍💻 About Me:
-Hi! I’m a Web and Mobile App Developer skilled in PHP, Laravel, MySQL, JavaScript, and Vue.js. My repositories are a mix of open-source projects, personal experiments, and work-related (private) code.<br><br>I’m here to learn, collaborate, and contribute to the developer community while growing my skills. Outside of coding, I enjoy exploring new tech and a good cup of coffee.<br><br>Let’s connect and build something amazing! 🚀
+## Hi there, I'm Kjartan Bourgeois! 👋
 
+🚀 **Passionate Full-Stack Developer** | 🛠 **Laravel Enthusiast** | 💡 **Open-Source Advocate**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KjartanBourgeois&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KjartanBourgeois&theme=dark&hide_border=false)
+I'm a full-stack developer specializing in **Laravel** and always striving to get better every day. I love working with modern web technologies and believe in the power of open-source. 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KjartanBourgeois&icon=2&color=1)](https://visitcount.itsvg.in)
+
+### 🔧 Tech Stack & Tools
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kjartanbourgeois/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bourgeois.kjartan@gmail.com)
+
+---
+
+### 🎉 Fun Fact
+
+🛠️ *"It’s not a bug, it’s a feature!"* 😆
+
+---
+
+💡 *Always learning, always building!* 🚀
